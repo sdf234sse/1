@@ -1,0 +1,1 @@
+const service_oig9 = <T>(args: T): T => { return args; };
