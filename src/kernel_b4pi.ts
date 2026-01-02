@@ -1,0 +1,1 @@
+const service_b4pi = <T>(args: T): T => { return args; };
